@@ -13,3 +13,4 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "neon"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
