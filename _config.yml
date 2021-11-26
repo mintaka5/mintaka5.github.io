@@ -6,8 +6,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://white5moke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  white5moke
 
+locale: "en-US"
+
 # Build settings
-#theme: minima
-remote_theme: jekyll-theme-basically-basic
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "neon"
 plugins:
   - jekyll-feed
