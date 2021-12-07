@@ -7,7 +7,7 @@ categories: social culture economy wages society politics philosophy
 
 I awoke to a very satisfying Reddit post this morning regarding what the media has now renamed the "the great resignation" to now ["the great revolt"](https://www.entrepreneur.com/article/397361).
 
-I won't get into the politics of it, and I wholly support a movement of workers that have decided that there is not a single shread of evidence out there that will prove to us that the economic powers that be, have no interest in enabling our society as a whole to thrive, prosper, and, I even dare say, to grow.
+I won't get into the politics of it, and I wholly support a movement of workers that have decided that there is not a single shread of evidence out there that will prove to us that the economic powers that be, have any interest in enabling our society as a whole to thrive, prosper, and, I even dare say, to sustain itself.
 
 Not a single individual on this planet deserves the lack of economic safety and assurance that current economic leaders have failed to provide, not just in recent debacles (a la COVID), but for what seems multiple generations, and this lousy Entrepreneur article just goes to show that business leaders and economic leaders have little to no interest in joining those of us that have awoken, and made the paradigm shift, but instead they have chosen to simply rewrite the lie,  that script which is really jsut a one-sided contract that continues to unreasonably benefit only them. They don't wish to create value for all, just ensured that their greed will continue to be fed off the backs of those stifled by a lack of prosperity. The rich are stealing from us and calling us lazy and greedy.
 
