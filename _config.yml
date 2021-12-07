@@ -4,7 +4,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   defender of information. value is soul! ^.^
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://white5moke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: Chris
+  picture: "https://cj5x-bucket-00005.s3.us-west-2.amazonaws.com/11363833_927134767381045_1464748891_a.jpg"
 github_username:  white5moke
+
+
 
 locale: "en-US"
 
@@ -15,3 +20,23 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+exclude:
+  - .asset-cache
+  - .bundle
+  - .codeclimate.yml
+  - .editorconfig
+  - .gitattributes
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .scss-lint.yml
+  - CHANGELOG
+  - Gemfile
+  - node_modules
+  - Rakefile
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - /docs
+  - /example
