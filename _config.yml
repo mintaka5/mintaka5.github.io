@@ -40,3 +40,4 @@ exclude:
   - vendor/ruby/
   - /docs
   - /example
+  - .vscode
