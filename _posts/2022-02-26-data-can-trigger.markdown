@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "data can trigger"
-date:   2021-02-26 10:51:00 -0800
+date:   2022-02-26 10:51:00 -0800
 categories: philosophy behavior information ai knowledge truthiness data
 ---
 
